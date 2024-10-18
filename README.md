@@ -1,6 +1,6 @@
 # About
 
-&#x20;This repository contains the [main documentation for BMIC's users](https://github.com/k-CIR/MR-Center/wiki).&#x20;
+&#x20;This repository contains the [main documentation for BMIC's users](https://github.com/k-CIR/BMIC/wiki).&#x20;
 
 More information about BMIC here:
 
